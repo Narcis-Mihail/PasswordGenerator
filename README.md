@@ -1,0 +1,2 @@
+# PasswordGenerator
+I have created a password generator using Java. To generate the password I have used a combination of lower case letters, upper case letters, numbers and special characters. I'm going to use java.security.SecureRandom instead of utilizing random, SecureRandom creates passwords that are more random, which is excellent when creating several passwords since we should use a different password for each account.
